@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+html,body {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #F0EBE1;
+  color: #273A58;
+  font-family: var(--font-instrument-serif);
+}
+
+.slider-container{
+  height: 100vh;
+  overflow-y: scroll;
+  scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
+}
+.slide-section {
+  height: 100vh;            /* Each slide fills the screen */
+  scroll-snap-align: start; /* Snap to the top of the section */
+}
+@theme{
+  --font-instrument-serif: 'Instrument Serif', serif;
+  --font-news-cycle: 'News Cycle', sans-serif;
+  --font-archivo: 'Archivo', sans-serif;
+  --font-playfair-display: 'Playfair Display', serif;
+  --font-color: #273A58;
+  --color-background: #F0EBE1;
+}
+
+@layer utilities {
+  @keyframes loading {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(250%);
+    }
+  }
+
+  .animate-loading-bar{
+    animation: loading 0.8s ease infinite;
+  }
+}
+
