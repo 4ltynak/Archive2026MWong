@@ -5,8 +5,8 @@ export default function Navbar({ menuOpen, setMenuOpen }) {
     }, [menuOpen]);
 
     return (
-        <nav className="fixed top-0 w-full z-40 backdrop-blur-lg border-b border-white/10 grid grid-cols-12 h-16 lg:px-2">
-            <div className="col-start-2 col-span-10 lg:col-start-3 lg:col-span-8 py-4">
+        <nav className="fixed top-0 w-full z-40 backdrop-blur-lg border-b border-white/10 grid grid-cols-12 h-16 px-2">
+            <div className="col-span-10 col-start-2 lg:col-start-3 py-4 lg:col-span-8">
                 <div className="flex justify-between items-center">
 
                 
