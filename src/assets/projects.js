@@ -32,7 +32,7 @@ export const myProjects =[
     "media_type": "reel",
     "url": "./videos/Reel - Kitchen.mp4",
     "tags": "[\"videography\",\"copywriting\",\"video editing\"]",
-    "snippet": "Reel shot and edited showcasing a modern kitchen solution. Features hiddens storage and a large island perfect for multifunctional use.",
+    "snippet": "This reel highlights a modern kitchen renovation, featuring seamless hidden storage, elegant fluted glass cabinetry, and a spacious, multifunctional island designed for both style and daily utility.",
     "client": "Lemonfridge Studio"
   },
   {

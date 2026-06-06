@@ -1,6 +1,6 @@
 export default function LandingPage () {
     return (
-      <div id="landing" className="snap-start flex flex-col col-span-10 col-start-2 lg:col-span-12 lg:grid lg:grid-cols-subgrid h-full p-12 overflow-hidden select-none">
+      <div id="landing" className="lg:snap-start flex flex-col col-span-10 col-start-2 lg:col-span-12 lg:grid lg:grid-cols-subgrid h-full p-12 overflow-hidden select-none">
   
       <div className="col-span-12 flex flex-col justify-between items-center h-full">
         

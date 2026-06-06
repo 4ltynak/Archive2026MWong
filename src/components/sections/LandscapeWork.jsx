@@ -22,7 +22,7 @@ const handlePrev = () => {
 
     return (
 <section id="landscape-work" 
-className="snap-start col-span-12 grid grid-cols-12 md:grid-cols-subgrid overflow-hidden select-none items-center h-screen grid-rows-12 gap-4">
+className="lg:snap-start col-span-12 grid grid-cols-12 md:grid-cols-subgrid overflow-hidden select-none items-center h-screen grid-rows-12 gap-4">
     {/* Added 'hidden lg:flex' to hide on mobile and show on desktop */}
 <div className="hidden lg:flex col-span-8 col-start-3 row-start-2 justify-between self-start">
     <a href="#landscape-work" className="hover:underline">
