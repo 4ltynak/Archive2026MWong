@@ -87,7 +87,7 @@ className="snap-start col-span-12 grid grid-cols-12 md:grid-cols-subgrid overflo
                 return (
                     <div 
                         key={`desktop-${project.url || index}`}
-                        className="w-full h-full duration-500 ease-in-out cursor-pointer grayscale hover:grayscale-0 transition-all"
+                        className="w-full h-full duration-500 ease-in-out cursor-pointer transition-all"
                         onMouseEnter={() => setHoveredIndex(index)}
                         onMouseLeave={() => setHoveredIndex(null)}
                         onClick={() => setCurrentIndex(index)}
