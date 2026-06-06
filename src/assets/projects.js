@@ -97,7 +97,7 @@ export const myProjects =[
     "id": "a9605c83-c302-484d-9a50-cd430d845840",
     "title": "SunnySide Home Affairs 2025",
     "media_type": "reel",
-    "url": "./videos/Reel - SunnySide Home Affairs 2025.mp4",
+    "url": "./videos/Reel - SunnySide Home Affairs.mp4",
     "tags": "[\"event\",\"editing\",\"colour grading\",\"transitions\",\"motion graphics\"]",
     "snippet": "A vibrant event recap reel showcasing dynamic highlights and crowd engagement, structured to elevate brand identity and preserve the event's core moments.",
     "client": "SunnySide x Lemonfridge Studio"
