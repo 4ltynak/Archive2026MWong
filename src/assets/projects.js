@@ -12,7 +12,7 @@ export const myProjects =[
     "id": "1cbc786a-a7cb-4d42-b1b6-d4ce3cd3968c",
     "title": "Featured Landed Property",
     "media_type": "reel",
-    "url": "./videos/Reel - Featured Landed Property.mp4",
+    "url": "./videos/Reel - Featured Property.mp4",
     "tags": "[\"colour grading\", \"video editing\"]",
     "snippet": "An aesthetic commercial edit capturing a minimalist landed home, balancing structural airflow mesh and rich wood textures under natural skylight illumination.",
     "client": "Lemonfridge Studio"
