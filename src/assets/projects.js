@@ -108,7 +108,7 @@ export const myProjects =[
     "media_type": "video",
     "url": "./videos/836Yishun.mp4",
     "tags": "[\"colour grading\"]",
-    "snippet": "Modern lifestyle tour highlighting a refined Singapore residence. Focuses on the seamless transitions between cozy, warm-toned living areas and bright, marble-accented open spaces.",
+    "snippet": "A property tour capturing the seamless blend of colonial arch frames, custom wood carpentry, and marble accents inside a refined, minimalist luxury home.",
     "client": "Lemonfridge Studio",
     "thumbnail": "https://lhpwviumtempoiroqkyn.supabase.co/storage/v1/object/sign/Portfolio%20Assets/videos/Thumbnails/Yishun%20Thumbnail.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV82N2E0OTlmMy05NTYwLTQ3ZGItYWE0MS03MGY1NmMwODRkMDEiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJQb3J0Zm9saW8gQXNzZXRzL3ZpZGVvcy9UaHVtYm5haWxzL1lpc2h1biBUaHVtYm5haWwucG5nIiwiaWF0IjoxNzgwMzA3OTc2LCJleHAiOjE4MTE4NDM5NzZ9.E3cGHGxRMUw8pfI51Z_FK6IQHOF_ykpYd0K2uKGRHB0"
   },
